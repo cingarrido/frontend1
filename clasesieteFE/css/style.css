@@ -19,4 +19,9 @@ h2 {
 footer {
     background: #005677;
     color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%
 }
