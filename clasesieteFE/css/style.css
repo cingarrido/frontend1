@@ -1,3 +1,7 @@
+header{
+    text-align: center;
+}
+
 body {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -23,5 +27,10 @@ footer {
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
-    line-height: 84.69%
+    line-height: 84.69%;
+
+}
+
+.iden{
+    margin-left: 80px;
 }
