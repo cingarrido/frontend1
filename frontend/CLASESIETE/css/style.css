@@ -1,0 +1,36 @@
+header{
+    text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.title-subtitle {
+    text-transform: uppercase;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+footer {
+    background: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 84.69%;
+
+}
+
+.iden{
+    margin-left: 80px;
+}
